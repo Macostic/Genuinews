@@ -1,0 +1,287 @@
+*{
+    padding: 0px;
+    margin:  0px;
+    list-style-type: none;
+}
+
+body{
+    background-color: rgb(46, 45, 45);
+    font-size: 30x;
+}
+
+header,nav,section,article,aside,footer{
+    display:block;
+}
+
+.container{
+    width: 1000px;
+    margin: 20px auto;
+    border: 2px;
+    background-color: rgb(17, 15, 15);
+}
+.change{
+    background-color:#008000;
+    background-image: url("./image/bi5.jfif");
+  
+}
+
+.pic2{
+    float:left;
+    margin:10px;
+    
+    
+}
+.new{
+    float: left;
+    color: rgb(158, 131, 131);
+    text-align: center;
+    margin-left: 410px;
+    font-size: 25px;   
+}
+
+
+
+.down{
+    clear: left;
+    margin-left: 220px; 
+    background-color: rgb(117, 61, 61);  
+}
+.same{
+   float: left; 
+   margin-right: 10px;
+   margin-bottom: 20px ;
+   margin-top: 10px;
+}
+
+.same1{
+    float: left; 
+    margin-right: 10px;
+    margin-top: 10px;
+    
+ }
+
+ .same2{
+    float: left; 
+    margin-right: 10px;
+    margin-top: 10px;
+    
+ }
+
+ .same3{
+    float: left; 
+    margin-right: 10px;
+    margin-top: 10px;
+    
+ }
+
+ .shift{
+     clear: left;
+     float:right;
+     border: 2px;
+     width: 675px;
+     margin-right: 10px;
+     margin-left: 5px;
+     background-image: url("./image/bi3.jfif");
+     
+ }
+ .side{
+     clear: left;
+     border: 2px;
+     width: 290px;
+     margin-left: 10px;
+     background-image: url("./image/d2.jfif");
+ }
+
+.nice{
+    border: 2px;
+    width: 200px;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+    background-color: #f0ffff;
+    height: 380px;
+    border-top-left-radius: 30px;
+}
+
+.nice1{
+    border: 2px;
+    width: 200px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 380px;
+    background-color: #f0ffff;
+}
+
+.nice2{
+    border: 2px;
+    width: 200px;
+    margin-left: 10px;
+    height: 380px;
+    float: left;
+    margin-top: 10px;
+    background-color: #f0ffff;
+    border-top-right-radius: 30px;
+}
+
+.online{
+    border: 2px;
+    width: 120px;
+    margin-top: 10px;
+    clear: left;
+    height: 180px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    text-decoration-color: rgb(74, 124, 233);
+    background-color: #f0ffff;
+
+}
+
+.online1{
+    border: 2px;
+    width: 120px;
+    height: 180px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-image: url("./image/mask1.png");
+    background-color: #f0ffff;
+    
+
+}
+
+.online2{
+    border: 2px ;
+    width: 120px;
+    height: 180px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: #f0ffff;
+
+}
+
+.online3{
+    border: 2px;
+    width: 120px;
+    height: 180px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: #f0ffff;
+}
+
+.online4{
+    border: 2px;
+    width: 120px;
+    height: 180px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: #f0ffff;
+}
+.foot{
+    text-align: center;
+    background-image: linear-gradient(to right,blue, pink ,rgb(221, 8, 43));
+}
+
+.design{
+    border: 2px;
+    width: 310px;
+    height: 460px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: #f0ffff;
+    border-bottom-left-radius: 30px;
+}
+
+.end{
+    border: 2px;
+    width: 310px;
+    height: 460px;
+    float:left;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #f0ffff;
+    border-bottom-right-radius: 30px ;
+}
+
+h5{
+    text-align: center;
+    font-size: 25px;
+    color: grey;
+    text-decoration: underline;
+}
+
+h6{
+    text-decoration: underline;
+    font-style: italic;
+    color: rgb(rgb(68, 23, 23));
+}
+
+a{
+    color: orangered;
+}
+
+a:hover{
+    color: brown;
+    font-weight: bold;
+}
+
+a:active{
+    color: rgb(146, 167, 106);
+}
+
+a:visited{
+    color: rgb(28, 44, 3);
+}
+
+h4{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h6{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.side2{
+    border: 2px ;
+    width: 288px;
+    height: 300px;
+    margin-top: 38px;
+    background-color: #f0ffff;
+    
+
+}
+
+.yellow{
+    background-color: #f0ffff;
+}
+
+.side3{
+    background-image: url("./image/climate.jfif");
+    border: 2px ;
+    width: 288px;
+    height: 300px;
+    margin-top: 38px;
+}
+
+.side4{
+    border: 2px ;
+    width: 288px;
+    height: 300px;
+    margin-top: 38px;
+    margin-left: 10px;
+    background-color: #f0ffff;
+}
+
+
+
